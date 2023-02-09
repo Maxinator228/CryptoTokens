@@ -109,8 +109,6 @@ body{
             padding-bottom: 180px;
             .block-text{
                 width: 50%;
-                
-                
                 h1{
                     margin-bottom: 50px;
                 }
@@ -123,12 +121,12 @@ body{
                     
                 }
                 .text-with-btn{
-                    width: 40%;
+                    width: 55%;
                     display: flex;
                     justify-content: space-between;
                     align-items: center;
                     svg{
-                        margin-right: 15px;
+                        margin-left: 20px;
                         transition: 0.5s;
                         &:hover{
                             scale: 1.1;

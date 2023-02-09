@@ -124,13 +124,13 @@ body header .main .block-text .container {
   align-items: center;
 }
 body header .main .block-text .text-with-btn {
-  width: 40%;
+  width: 55%;
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
 body header .main .block-text .text-with-btn svg {
-  margin-right: 15px;
+  margin-left: 20px;
   transition: 0.5s;
 }
 body header .main .block-text .text-with-btn svg:hover {
